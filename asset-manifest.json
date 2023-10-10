@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student_management/static/css/main.5fd7dd10.css",
+    "main.js": "/student_management/static/js/main.6fcd4cc1.js",
+    "static/js/787.dbf9f697.chunk.js": "/student_management/static/js/787.dbf9f697.chunk.js",
+    "static/media/Snapinsta.app_361567956___n_1080.jpg": "/student_management/static/media/Snapinsta.app_361567956_2001423040210195_8983464168304746411_n_1080.a65111a3fcacaaae4d88.jpg",
+    "index.html": "/student_management/index.html",
+    "main.5fd7dd10.css.map": "/student_management/static/css/main.5fd7dd10.css.map",
+    "main.6fcd4cc1.js.map": "/student_management/static/js/main.6fcd4cc1.js.map",
+    "787.dbf9f697.chunk.js.map": "/student_management/static/js/787.dbf9f697.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd7dd10.css",
+    "static/js/main.6fcd4cc1.js"
+  ]
+}
